@@ -1,3 +1,6 @@
+/**
+ * @author Eduardo dos Santos
+ */
 const express = require("express");
 const cors = require("cors");
 
